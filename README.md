@@ -173,13 +173,6 @@ For production deployment:
 2. Deploy to your preferred platform (AWS, GCP, etc.)
 3. Update the connection URL in your client application
 
-## 🆘 Support & Resources
-
-### Mental Health Resources
-- **Crisis Text Line**: Text HOME to 741741
-- **National Suicide Prevention Lifeline**: 988
-- **Crisis Support**: Available 24/7 for immediate help
-
 ### Technical Support
 - [LiveKit Documentation](https://docs.livekit.io/)
 - [Groq Documentation](https://console.groq.com/docs)
