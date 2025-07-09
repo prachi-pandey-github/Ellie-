@@ -160,11 +160,6 @@ VoiceAgent/
 ```bash
 python agent.py dev
 ```
-
-### Debugging
-- Agent debug info: http://localhost:60931/debug
-- Console logs provide detailed provider configuration info
-
 ### Customization
 - Modify the `instructions` in `agent.py` to adjust personality
 - Add new coping strategies in the `provide_mental_health_support` function
@@ -190,14 +185,5 @@ For production deployment:
 - [Groq Documentation](https://console.groq.com/docs)
 - [Deepgram Documentation](https://developers.deepgram.com/)
 
-## 🙏 Acknowledgments
-
-- **LiveKit** for the excellent real-time communication framework
-- **Groq** for fast LLM inference
-- **Deepgram** for accurate speech recognition
-- **Cartesia** for natural voice synthesis
-- Mental health professionals who inspire compassionate AI development
-
----
 
 *Remember: This agent provides general wellness support. For persistent mental health concerns, please consult with a licensed mental health professional.*
