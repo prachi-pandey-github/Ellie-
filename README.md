@@ -165,13 +165,6 @@ python agent.py dev
 - Add new coping strategies in the `provide_mental_health_support` function
 - Configure different AI models by changing provider settings
 
-## 🌐 Deployment
-
-For production deployment:
-
-1. Set up LiveKit Cloud credentials in `.env`
-2. Deploy to your preferred platform (AWS, GCP, etc.)
-3. Update the connection URL in your client application
 
 ### Technical Support
 - [LiveKit Documentation](https://docs.livekit.io/)
